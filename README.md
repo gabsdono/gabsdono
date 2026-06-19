@@ -1,5 +1,5 @@
 <h1>
-  gabs ☕✨
+  gabs✨
   <a href="https://linkedin.com/in/gabsdono">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
